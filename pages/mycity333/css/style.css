@@ -1,0 +1,44 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color:  royalblue;
+}
+.geral {
+    border: 2px dashed whitesmoke;
+    width: 700px;
+    margin: auto;
+    padding: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: slateblue;
+}
+
+h2 {
+    border-bottom: 1px dashed #7E9F19;
+}
+
+
+.titulo {
+
+}
+
+.sorveteria {
+
+}
+
+.manzo {
+
+}
+
+.costa-burger img {
+
+}
+
+img {
+    border: 2px solid #7E9F19;
+}
+
+h1 {
+    margin: 1em 0;
+}
+

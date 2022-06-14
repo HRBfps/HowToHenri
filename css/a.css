@@ -1,0 +1,24 @@
+.conteudo {
+    border: 2px solid darkgoldenrod;
+    display:flex;
+    background-color: antiquewhite;
+}
+.esquerda {
+    padding-left: 4px;
+    margin: 7px;
+    width:50%;
+    border: 2px dashed gray;   
+}
+.direita {
+    padding-left: 4px;
+    margin: 7px;
+    width: 50%;
+    border: 2px dashed gray;
+}
+
+img {
+    border: 2px solid gray;
+}
+a {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
